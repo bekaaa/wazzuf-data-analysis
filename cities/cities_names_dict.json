@@ -4,6 +4,7 @@
 		"ciaro",
 		"cira",
 		"ciro",
+		"cario",
 		"abbassia",
 		"abou rawash",
 		"ain shams",
@@ -14,7 +15,8 @@
 		"maadi",
 		"nasr city",
 		"sheikh zayed",
-		"egypt",
+		"mohandeseen",
+		"mohandessin",
 		"القاهرة",
 		"القاهره"
 	],
@@ -123,7 +125,7 @@
 		"minya"
 	],
 	"port-said": [
-		"port said"
+		"port said",
 		"portsaid"
 	],
 	"qena": [
@@ -149,5 +151,15 @@
 	],
 	"south sinai": [
 		"south sinai"
+	],
+	"aswan": [
+		"aswan"
+	],
+	"remote": [
+		"remote"
+	],
+	"any": [
+		"any",
+		"all"
 	]
 }
